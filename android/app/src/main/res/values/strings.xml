@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WinzoHello</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">bjq4iwtdxBkzRUJcF5_ZgA7rbN2KiCjK9pLCY</string>
+</resources>
