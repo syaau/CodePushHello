@@ -22,12 +22,12 @@
    >`$ yarn release`
 
 ## Files Changed to make code-push work
-1. [package.json]()
-2. [index.js]()
-3. [App.js]()
-4. [ShellApp.js]()
-5. [android/build.gradle]()
-6. [android/settings.gradle]()
-7. [android/app/build.gradle]()
-8. [android/app/src/main/res/values/strings.xml]()
-9. [android/app/src/main/java/com/winzohello/MainApplication.java]()
+1. [package.json](package.json)
+2. [index.js](index.js)
+3. [App.js](App.js)
+4. [ShellApp.js](ShellApp.js)
+5. [android/build.gradle](android/build.gradle)
+6. [android/settings.gradle](android/settings.gradle)
+7. [android/app/build.gradle](android/app/build.gradle)
+8. [android/app/src/main/res/values/strings.xml](android/app/src/main/res/values/strings.xml)
+9. [android/app/src/main/java/com/winzohello/MainApplication.java](android/app/src/main/java/com/winzohello/MainApplication.java)
